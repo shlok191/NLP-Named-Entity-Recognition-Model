@@ -1,4 +1,4 @@
-# Named Entity Recognition (NER) with Bi-LSTM
+# Named Entity Recognition (NER) with Bi-LSTM Model
 
 ## Overview
 
